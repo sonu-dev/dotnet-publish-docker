@@ -1,0 +1,6 @@
+@Containerization_HostAddress = http://localhost:5064
+
+GET {{Containerization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
